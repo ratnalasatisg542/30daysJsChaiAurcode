@@ -46,3 +46,14 @@
 
 //task 5 declare a variable using let assign and initlize reasing nes value and log both the value
 
+let val = "old"
+console.log(val);
+val = "new" 
+console.log(val);
+
+
+// task 6
+const age = 22;
+console.log(age);
+age = 100;
+console.log(age);
